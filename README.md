@@ -1,5 +1,5 @@
 
-# Learn Git - A Beginner's Guide to Version Control
+# Git Tutorials - A Beginner's Guide to Version Control
 
 Welcome *Git Tutorials*, a repository crafted to demystify Git and empower you with the skills to master version control! Whether you're a complete newbie or looking to sharpen your Git knowledge, this repo is your go-to resource for understanding how to track, manage, and collaborate on projects like a pro.
 
